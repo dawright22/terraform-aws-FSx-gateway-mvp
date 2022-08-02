@@ -1,4 +1,4 @@
-# terraform-aws-FSx-gateway-mvp
+# terraform-aws-fsx-gateway-mvp
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
