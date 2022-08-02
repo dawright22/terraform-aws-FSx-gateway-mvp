@@ -1,4 +1,4 @@
-# hc-gcve-fsx-deploy
+# terraform-aws-FSx-gateway-mvp
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
